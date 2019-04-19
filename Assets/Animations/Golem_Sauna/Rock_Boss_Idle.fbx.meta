@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: aa7a852ea7876904f9b77e9db7c01b43
+timeCreated: 1506291866
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: GeoSphere022
+    100002: GeoSphere023
+    100004: GeoSphere024
+    100006: GeoSphere025
+    100008: GeoSphere026
+    100010: GeoSphere051
+    100012: GeoSphere052
+    100014: GeoSphere053
+    100016: GeoSphere054
+    100018: GeoSphere055
+    100020: GeoSphere056
+    100022: GeoSphere057
+    100024: GeoSphere058
+    100026: GeoSphere061
+    100028: GeoSphere062
+    100030: GeoSphere063
+    100032: GeoSphere064
+    100034: GeoSphere065
+    100036: GeoSphere066
+    100038: GeoSphere069
+    100040: GeoSphere070
+    100042: GeoSphere071
+    100044: joint1
+    100046: joint10
+    100048: joint11
+    100050: joint12
+    100052: joint13
+    100054: joint14
+    100056: joint15
+    100058: joint16
+    100060: joint2
+    100062: joint3
+    100064: joint4
+    100066: joint5
+    100068: joint6
+    100070: joint7
+    100072: joint8
+    100074: joint9
+    100076: //RootNode
+    100078: Tube001
+    400000: GeoSphere022
+    400002: GeoSphere023
+    400004: GeoSphere024
+    400006: GeoSphere025
+    400008: GeoSphere026
+    400010: GeoSphere051
+    400012: GeoSphere052
+    400014: GeoSphere053
+    400016: GeoSphere054
+    400018: GeoSphere055
+    400020: GeoSphere056
+    400022: GeoSphere057
+    400024: GeoSphere058
+    400026: GeoSphere061
+    400028: GeoSphere062
+    400030: GeoSphere063
+    400032: GeoSphere064
+    400034: GeoSphere065
+    400036: GeoSphere066
+    400038: GeoSphere069
+    400040: GeoSphere070
+    400042: GeoSphere071
+    400044: joint1
+    400046: joint10
+    400048: joint11
+    400050: joint12
+    400052: joint13
+    400054: joint14
+    400056: joint15
+    400058: joint16
+    400060: joint2
+    400062: joint3
+    400064: joint4
+    400066: joint5
+    400068: joint6
+    400070: joint7
+    400072: joint8
+    400074: joint9
+    400076: //RootNode
+    400078: Tube001
+    4300000: GeoSphere022
+    4300002: GeoSphere023
+    4300004: GeoSphere024
+    4300006: GeoSphere025
+    4300008: GeoSphere026
+    4300010: Tube001
+    4300012: GeoSphere051
+    4300014: GeoSphere052
+    4300016: GeoSphere053
+    4300018: GeoSphere054
+    4300020: GeoSphere055
+    4300022: GeoSphere056
+    4300024: GeoSphere057
+    4300026: GeoSphere058
+    4300028: GeoSphere061
+    4300030: GeoSphere062
+    4300032: GeoSphere063
+    4300034: GeoSphere064
+    4300036: GeoSphere065
+    4300038: GeoSphere066
+    4300040: GeoSphere069
+    4300042: GeoSphere070
+    4300044: GeoSphere071
+    7400000: RockBoss Idle
+    9500000: //RootNode
+    13700000: GeoSphere022
+    13700002: GeoSphere023
+    13700004: GeoSphere024
+    13700006: GeoSphere025
+    13700008: GeoSphere026
+    13700010: GeoSphere051
+    13700012: GeoSphere052
+    13700014: GeoSphere053
+    13700016: GeoSphere054
+    13700018: GeoSphere055
+    13700020: GeoSphere056
+    13700022: GeoSphere057
+    13700024: GeoSphere058
+    13700026: GeoSphere061
+    13700028: GeoSphere062
+    13700030: GeoSphere063
+    13700032: GeoSphere064
+    13700034: GeoSphere065
+    13700036: GeoSphere066
+    13700038: GeoSphere069
+    13700040: GeoSphere070
+    13700042: GeoSphere071
+    13700044: Tube001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: RockBoss Idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

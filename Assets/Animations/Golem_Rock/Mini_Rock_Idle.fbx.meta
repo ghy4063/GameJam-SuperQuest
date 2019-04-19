@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: 0c6c945dc125ab54aac02b5703b08521
+timeCreated: 1506294862
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: GeoSphere072
+    100002: GeoSphere073
+    100004: GeoSphere074
+    100006: GeoSphere075
+    100008: GeoSphere076
+    100010: GeoSphere077
+    100012: GeoSphere078
+    100014: GeoSphere079
+    100016: Group002
+    100018: joint1
+    100020: joint10
+    100022: joint11
+    100024: joint12
+    100026: joint2
+    100028: joint3
+    100030: joint4
+    100032: joint5
+    100034: joint6
+    100036: joint7
+    100038: joint8
+    100040: joint9
+    100042: //RootNode
+    400000: GeoSphere072
+    400002: GeoSphere073
+    400004: GeoSphere074
+    400006: GeoSphere075
+    400008: GeoSphere076
+    400010: GeoSphere077
+    400012: GeoSphere078
+    400014: GeoSphere079
+    400016: Group002
+    400018: joint1
+    400020: joint10
+    400022: joint11
+    400024: joint12
+    400026: joint2
+    400028: joint3
+    400030: joint4
+    400032: joint5
+    400034: joint6
+    400036: joint7
+    400038: joint8
+    400040: joint9
+    400042: //RootNode
+    4300000: GeoSphere072
+    4300002: GeoSphere075
+    4300004: GeoSphere074
+    4300006: GeoSphere079
+    4300008: GeoSphere076
+    4300010: GeoSphere073
+    4300012: GeoSphere077
+    4300014: GeoSphere078
+    7400000: minirockidle
+    9500000: //RootNode
+    13700000: GeoSphere072
+    13700002: GeoSphere073
+    13700004: GeoSphere074
+    13700006: GeoSphere075
+    13700008: GeoSphere076
+    13700010: GeoSphere077
+    13700012: GeoSphere078
+    13700014: GeoSphere079
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: minirockidle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

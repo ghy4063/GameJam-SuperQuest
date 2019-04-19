@@ -1,0 +1,243 @@
+fileFormatVersion: 2
+guid: f47d7e0cc765a414e983ba3eb9d43985
+timeCreated: 1506286405
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Box001
+    100002: Box002
+    100004: Box004
+    100006: Box008
+    100008: Box009
+    100010: Box010
+    100012: Box011
+    100014: Box012
+    100016: Box013
+    100018: Box014
+    100020: Box016
+    100022: Box017
+    100024: Box018
+    100026: Box019
+    100028: Box020
+    100030: Box021
+    100032: Box023
+    100034: Box024
+    100036: Box025
+    100038: Box026
+    100040: Cylinder001
+    100042: //RootNode
+    100044: joint1
+    100046: joint10
+    100048: joint11
+    100050: joint2
+    100052: joint3
+    100054: joint4
+    100056: joint5
+    100058: joint6
+    100060: joint7
+    100062: joint8
+    100064: joint9
+    100066: Torus001
+    100068: transform1
+    100070: transform2
+    100072: transform3
+    100074: transform4
+    100076: Tube001
+    400000: Box001
+    400002: Box002
+    400004: Box004
+    400006: Box008
+    400008: Box009
+    400010: Box010
+    400012: Box011
+    400014: Box012
+    400016: Box013
+    400018: Box014
+    400020: Box016
+    400022: Box017
+    400024: Box018
+    400026: Box019
+    400028: Box020
+    400030: Box021
+    400032: Box023
+    400034: Box024
+    400036: Box025
+    400038: Box026
+    400040: Cylinder001
+    400042: //RootNode
+    400044: joint1
+    400046: joint10
+    400048: joint11
+    400050: joint2
+    400052: joint3
+    400054: joint4
+    400056: joint5
+    400058: joint6
+    400060: joint7
+    400062: joint8
+    400064: joint9
+    400066: Torus001
+    400068: transform1
+    400070: transform2
+    400072: transform3
+    400074: transform4
+    400076: Tube001
+    2300000: Box001
+    2300002: Box004
+    2300004: Box009
+    2300006: Box012
+    2300008: Box013
+    2300010: Box014
+    2300012: Box016
+    2300014: Box017
+    2300016: Box018
+    2300018: Box019
+    2300020: Box020
+    2300022: Box021
+    2300024: Box025
+    2300026: Box026
+    2300028: Tube001
+    3300000: Box001
+    3300002: Box004
+    3300004: Box009
+    3300006: Box012
+    3300008: Box013
+    3300010: Box014
+    3300012: Box016
+    3300014: Box017
+    3300016: Box018
+    3300018: Box019
+    3300020: Box020
+    3300022: Box021
+    3300024: Box025
+    3300026: Box026
+    3300028: Tube001
+    4300000: Box001
+    4300002: Box002
+    4300004: Box004
+    4300006: Box008
+    4300008: Box009
+    4300010: Box010
+    4300012: Box011
+    4300014: Tube001
+    4300016: Box012
+    4300018: Box013
+    4300020: Box014
+    4300022: Box016
+    4300024: Box017
+    4300026: Box018
+    4300028: Box019
+    4300030: Box020
+    4300032: Box021
+    4300034: Box025
+    4300036: Box026
+    7400000: DruidWalk
+    9500000: //RootNode
+    13700000: Box002
+    13700002: Box008
+    13700004: Box010
+    13700006: Box011
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: DruidWalk
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
